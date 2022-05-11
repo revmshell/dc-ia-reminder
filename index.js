@@ -11,8 +11,8 @@ client.on('ready', () => {
 client.login(process.env.CLIENT_TOKEN); // el logueo del bot usando el token generado por discord
 
 
-client.on('message', msg => {
-  if (msg.content === 'ping') {
-    msg.reply('Pong!');
-  }
-});
+//client.on('message', msg => {
+//  if (msg.content === 'ping') {
+//    msg.reply('Pong!');
+//  }
+//});
