@@ -1,0 +1,24 @@
+{
+  "name": "iir",
+  "version": "1.0.0",
+  "description": "A simple discord bot that automatize the task of review infosec, cibersecurity, malware-develop and darknet news notifying on your discord server periodically:).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revmshell/dc-ia-reminder.git"
+  },
+  "author": "revmshell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revmshell/dc-ia-reminder/issues"
+  },
+  "homepage": "https://github.com/revmshell/dc-ia-reminder#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
